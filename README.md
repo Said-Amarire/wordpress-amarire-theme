@@ -105,7 +105,7 @@ You may modify, reuse, distribute, and sell under the same license.
 **Amarire Dev**  
 Professional Web Developer & WordPress Theme Architect  
 - Website: [amarire.dev](https://amarire.dev)  
-- GitHub: [amarire-dev](https://github.com/amarire-dev)  
+- GitHub: [Said Amarire](https://github.com/Said-Amarire)  
 - Contact: contact@amarire.dev  
 
 ---
